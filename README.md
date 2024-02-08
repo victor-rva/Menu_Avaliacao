@@ -42,8 +42,4 @@ Este programa em Python foi desenvolvido para coletar e analisar avaliações da
 
 - Python 3.x
 
-### Desenvolvedor
-
-- Nome: [Seu Nome]
-- Contato: [Seu E-mail]
  
